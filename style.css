@@ -12,6 +12,7 @@
 
 .midden {
     display: flex;
+    font-size: 50px;
     justify-content: center;
     color: white;
 }

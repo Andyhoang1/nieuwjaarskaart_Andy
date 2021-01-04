@@ -7,12 +7,9 @@
 }
 
 .boven {
-    display: flex;
-    justify-content: flex-start;
     color: brown;
 }
 
 .container_1 {
-    justify-content: center;
     color: red;
 }

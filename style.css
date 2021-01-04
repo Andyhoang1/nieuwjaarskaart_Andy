@@ -1,12 +1,12 @@
 .alles {
     display: flex;
     justify-content: center;
+    font-size: 500px;
     background-color: blueviolet;
+
 }
 
 .boven {
-    width: 25px;
-    height: 25px;
     color: red;
 }
 
